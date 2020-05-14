@@ -82,3 +82,18 @@ h1{
     height: 80vh;
     width: 100%;
 }
+.email{
+    text-align: center;
+}
+
+.name{
+    text-align:center;
+    color: black;
+}
+
+footer{
+    text-align: center;
+}
+h7{
+    font-weight: bold;
+}
