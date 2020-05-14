@@ -97,3 +97,23 @@ footer{
 h7{
     font-weight: bold;
 }
+h5{
+    font-weight: bold;
+}
+.logo{
+    text-align: center;
+}
+.mouse{
+    text-align: center;
+}
+
+h6{
+    font-weight: bold;
+    color: white;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  h2{
+    font-weight:bolder;
+  }
