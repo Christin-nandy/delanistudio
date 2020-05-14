@@ -50,3 +50,19 @@ h4{
     text-align: center;
     align-items: center;
 }
+#servicesoverlay{
+    background-image: url("../images/s_image.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+
+.textoverlay{
+    background-image: url("../images/h_img.jpg");
+    position: relative;
+    height: 60vh;
+    width: 100%;
+}
