@@ -38,3 +38,15 @@
     color: white;
     z-index: 1;
 }
+.h_image h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.images{
+    text-align: center;
+    align-items: center;
+}
