@@ -187,3 +187,25 @@ h6{
     opacity: 0.5;
     filter: blur(opacity=100);
   }
+  .mouse{
+    text-align: center;
+    align-items: center;
+  }
+  #mouse_click{
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+  }
+
+h6{
+  font-weight: 900;
+  
+}
+
+h9{
+  text-align: center;
+}
+#form{
+  color: black;
+}
