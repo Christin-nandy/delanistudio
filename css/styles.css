@@ -117,3 +117,73 @@ h6{
   h2{
     font-weight:bolder;
   }
+  #port4 {
+    opacity: 1;
+    filter: blur(opacity=50); 
+  }
+  #port4:hover {
+    opacity: 0.5;
+    filter: blur(opacity=100); 
+  }
+
+  #port3 {
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  
+  #port3:hover{
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
+
+  #port2{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port2:hover{
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
+  
+  #port1{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port1:hover {
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
+
+  
+  #port5{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port5:hover{
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
+  #port6{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port6:hover{
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
+  #port7{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port7:hover{
+    opacity: 0.5;
+    filter: blur(opacity100);
+  }
+  #port8{
+    opacity: 1;
+    filter: blur(opacity=50);
+  }
+  #port8:hover{
+    opacity: 0.5;
+    filter: blur(opacity=100);
+  }
