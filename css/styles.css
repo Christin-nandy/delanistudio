@@ -8,3 +8,15 @@
     padding: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.portfolio img{
+    text-align: center;
+  -ms-grid-column-align: center;
+  justify-content: space-around; 
+  position: relative;
+    align-items: center;
+    margin: auto;
+}
+
+.portfolio{
+    text-align: center;
+}
