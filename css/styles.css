@@ -66,3 +66,19 @@ h4{
     height: 60vh;
     width: 100%;
 }
+h1{
+    text-align: center;
+    color: white;
+}
+.paragraph{
+    text-align: center;
+    color: white;
+}
+
+.contact{
+    background-image: url("../images/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
